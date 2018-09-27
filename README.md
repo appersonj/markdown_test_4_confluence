@@ -1,3 +1,4 @@
+----
 # markdown_test_4_confluence
 
 Is exactly what it says.
@@ -9,3 +10,9 @@ one from|one from
 
 * item 1
 * item 2
+
+----
+## Never do the following:
+````
+rm -rf /
+````
