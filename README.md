@@ -13,7 +13,7 @@ one from|one from
 
 ----
 ## Never do the following:
-(shld be renered as code)
+(shld be rendered as code)
 ```console
 rm -rf /
 ```
